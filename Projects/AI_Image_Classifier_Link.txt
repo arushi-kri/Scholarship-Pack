@@ -1,0 +1,13 @@
+# 🖼 AI Image Classifier
+
+*Description:*  
+A deep learning model using TensorFlow and Keras that classifies images into categories.  
+Trained on open datasets to recognize multiple object types accurately.  
+
+*Key Features:*  
+- Convolutional Neural Network (CNN) architecture  
+- Model trained and validated using image datasets  
+- Generates visual output for predicted labels  
+
+*GitHub Repository:*  
+➡ https://github.com/arushi-kri/AI-Image-Classifier.git 

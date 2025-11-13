@@ -1,0 +1,13 @@
+# 🧠 AI Chatbot Assistant
+
+*Description:*  
+An offline intelligent chatbot built using Python, SpeechRecognition, and pyttsx3.  
+The assistant can listen, process, and respond naturally to user commands with voice output.  
+
+*Key Features:*  
+- Voice recognition and text-to-speech (TTS) interaction  
+- Smart response system for general queries  
+- Offline operation (no external API dependency)  
+
+*GitHub Repository:*  
+➡ https://github.com/arushi-kri/AI-Chatbot-Assistant.git 
